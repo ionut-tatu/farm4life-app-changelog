@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.0.110
+### Added
+ - Added API endpoints for module progress and hub subscription
+
+### Fixed
+- Module Progress on Learning Page
+- Fixed HUB Subscription
+
+
 ## v1.0.109
 ### Added
  - Added number of sections & videos on Module page
