@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.0.120
+### Added
+ - Added Page transition
+
+### Fixed
+
+
 ## v1.0.110
 ### Added
  - Added API endpoints for module progress and hub subscription
