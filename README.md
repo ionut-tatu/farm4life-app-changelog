@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.0.130
+### Added
+ - Added "Add to learning" and "Download video" as their own components for easier reuse
+ - Added "Continue watching" POST request to API
+
+### Fixed
+ - Moved user data to Vuex for easy access accross the app
+
+
 ## v1.0.120
 ### Added
  - Added Page transition
