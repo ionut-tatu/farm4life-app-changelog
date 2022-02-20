@@ -1,6 +1,19 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.0.140
+### Added
+ - Store variables to be saved in Local Storage
+ - Added related/recommended for you videos
+ - Added User object to Local Storage
+
+### Fixed
+ - Increased thumbnail size
+ - Added "Download" & "Add to learning" labels
+ - Small typography changes
+ - Fixed {firstname} missing home page
+
+
 ## v1.0.130
 ### Added
  - Added "Add to learning" and "Download video" as their own components for easier reuse
