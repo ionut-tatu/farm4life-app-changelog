@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.0.150
+### Added
+ - Employer View: Add to Learning
+ - Employer View: Team Progress
+
+### Fixed
+ 
+
 ## v1.0.140
 ### Added
  - Store variables to be saved in Local Storage
