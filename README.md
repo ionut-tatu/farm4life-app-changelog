@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.0.155
+### Added
+ - Added "Downloaded" text & icon
+ - Added video info on Downloaded Videos page
+
+### Fixed
+ - Improved UI on Downloaded Videos page
+
+
 ## v1.0.150
 ### Added
  - Employer View: Add to Learning
