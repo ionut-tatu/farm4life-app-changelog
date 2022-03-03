@@ -1,6 +1,21 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.1.0
+### Added
+ - Added support for Camera
+ - Added ability to upload profile picture
+ - Added loading spinner on Module & Section pages
+
+### Fixed
+ - New page slide animation
+ - Fixed Add to Learning for "Employee"
+ - Fixed breadcrumbs on Section page
+ - Fixed other videos in this section not clickable
+ - Changed navigation: profile icon to go to Profile
+ - Changed navigation: Menu to go to Account
+
+
 ## v1.0.155
 ### Added
  - Added "Downloaded" text & icon
