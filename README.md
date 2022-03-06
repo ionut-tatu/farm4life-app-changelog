@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+
+## v1.2.0
+### Added
+ - Push Notifications: currently only working if triggered manually
+
+### Fixed
+ - Android capacitor plugins
+
+
 ## v1.1.0
 ### Added
  - Added support for Camera
