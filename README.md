@@ -2,6 +2,23 @@
 All notable changes to this project will be documented in this file.
 
 
+## v1.3.0
+### Added
+ - Added 'completed' badge on videos under "Watch more videos in this section"
+ - Added number of videos in a section on Module page
+ - Added "You're watching this video offline" on the Offline Video page
+ - Added support for video events such as end of video
+ - Automatically opens quiz upon finishing watching a video
+ - Checks if quiz is available on video, otherwise, it marks it as completed and saves progress
+ - Added next video feature
+ - Added Loading spinner upon logging in
+
+### Fixed
+ - Changed layout on Section and Video page to use VideosRow component
+ - Fixed quiz submission: adds ‘completed’ and saves progress
+ - Fixed edit icon on profile picture
+ 
+
 ## v1.2.0
 ### Added
  - Push Notifications: currently only working if triggered manually
