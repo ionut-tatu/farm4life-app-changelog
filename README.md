@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.3.3
+### Added
+ - Added "Completed" badge as Component
+
+### Fixed
+ - Fixed: Video marked as completed without answering quiz upon finishing watching video
+ - Fixed: minor spacing adjusments
+
 
 ## v1.3.0
 ### Added
