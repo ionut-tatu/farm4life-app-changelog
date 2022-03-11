@@ -1,6 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.3.4
+### Added
+ - Added "Submit feedback" feature for Beta testing
+ - Registration form for Individual accounts
+
+### Fixed
+ - Removed dummy logins
+ - Fixed back to home page on Login page
+
+
 ## v1.3.3
 ### Added
  - Added "Completed" badge as Component
