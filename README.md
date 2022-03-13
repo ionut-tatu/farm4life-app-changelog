@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.3.5
+### Added
+ - Added MPI logo in Splash Screen
+
+### Fixed
+ - Increased "feedback" size icon
+ - Home & Dashboard spacing adjustment
+
+
 ## v1.3.4
 ### Added
  - Added "Submit feedback" feature for Beta testing
