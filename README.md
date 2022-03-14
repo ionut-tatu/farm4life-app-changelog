@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.3.6
+### Added
+ - Added MPI logo to the Login Screen
+
+### Fixed
+ - MAJOR FIX: Fixed issue where API was returning 401 and you couldn't access the videos.
+
+
 ## v1.3.5
 ### Added
  - Added MPI logo in Splash Screen
