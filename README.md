@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.3.7
+### Added
+
+### Fixed
+ - Fixed API refresh token upon getting 401 and update store user data
+ - Fixed: Video page attaching multiple event listeners to window causing all sort of issues
+
+
 ## v1.3.6
 ### Added
  - Added MPI logo to the Login Screen
