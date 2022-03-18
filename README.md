@@ -1,6 +1,23 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.4.0
+### Added
+ - Added videos assigned by module endpoint, to display on Playlist page
+ - Remove from Learning feature (both employee & employer)
+ - Added error message when submitting quiz without answer
+ 
+### Fixed
+ - Revamped Playlist page template
+ - Assigned video doesn't show immediately under Playlist
+ - User profile doesn't update upon making changes
+ - User profile picture doesn't update in top navbar
+ - Module not showing total & completed duration, progress bar not working
+ - Video without a quiz still showing 0/1 complete
+ - App crashes when quiz is submitted without an answer
+ - Changing between accounts will show the previous account profile picture
+
+
 ## v1.3.7
 ### Added
 
