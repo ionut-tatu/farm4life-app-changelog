@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.4.3
+### Added
+
+ 
+### Fixed
+ - Fixed: showing that you're offline when first logging in
+
+
 ## v1.4.1
 ### Added
  - Added listener to check whether the user is connected or not to the internet
