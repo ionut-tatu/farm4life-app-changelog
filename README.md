@@ -1,6 +1,18 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.4.1
+### Added
+ - Added listener to check whether the user is connected or not to the internet
+ 
+### Fixed
+ - Changed home page layout when offline
+ - Changed navbar when offline so you can easily access your downloaded videos
+ - Removed pages and buttons that require internet when user is offline
+ - Replaced "Lorem Ipsum" on Video page and Continue Watching components with video details (duration, section & module titles)
+ - Fixed "Search" function and improved UI
+
+
 ## v1.4.0
 ### Added
  - Added videos assigned by module endpoint, to display on Playlist page
