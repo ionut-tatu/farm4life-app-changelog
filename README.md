@@ -3,6 +3,18 @@ All notable changes to this project will be documented in this file.
 
 ## v1.4.3
 ### Added
+ - Added: Delete all downloaded videos button with 2 options (keep playlist or delete both videos & playlist)
+ - Redirect to home if internet is disabled to prevent from accesing assets that require internet and causing errors
+ - Added: Module name, section name, video duration & video size as "more information" for downloaded videos
+ - Added alert if trying to download video without an internet connection
+
+ 
+### Fixed
+ - Small typos, wording, colours fixes
+
+
+## v1.4.3
+### Added
 
  
 ### Fixed
