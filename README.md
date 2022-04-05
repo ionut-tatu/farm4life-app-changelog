@@ -1,6 +1,21 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.4.5
+### Added
+ - API endpoint for sending push notifications to Firebase
+ - Send device token to back end server and save against user
+ - Push Notification: Assigned to you video
+ - Save notifications in Vuex store
+ - Clear notifications & badge
+ - Push Notification with 'view video' action
+
+ 
+### Fixed
+ - Moved Notifications to Components
+ - Fixed: Module name on Video, Offline Video, Dashboard, Home
+
+
 ## v1.4.4
 ### Added
  - Added: Delete all downloaded videos button with 2 options (keep playlist or delete both videos & playlist)
