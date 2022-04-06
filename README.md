@@ -1,6 +1,21 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.4.6
+### Added
+ - Added API endpoints for searching through modules and sections
+ - Search results now displayed per category: All, Modules, Sections, Videos
+ - Added filters to the Search page
+
+ 
+### Fixed
+ - Changed layout of videos on Search results to carousel
+ - Fixed: Search doesn't work on Search page
+ - Fixed: Replaced "Lorem Ipsum" section description to pull from API
+ - Fixed: Added loading spinner when searching
+ - Moved Footer Navigation to Components
+
+
 ## v1.4.5
 ### Added
  - API endpoint for sending push notifications to Firebase
