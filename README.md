@@ -6,6 +6,9 @@ All notable changes to this project will be documented in this file.
  - Added API endpoints for searching through modules and sections
  - Search results now displayed per category: All, Modules, Sections, Videos
  - Added filters to the Search page
+ - Assign Section feature
+ - Notification + tap to see Section contents
+ - Added "Assigned Sections" to Playlist
 
  
 ### Fixed
