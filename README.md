@@ -1,6 +1,17 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.4.8
+### Added
+ - Added breadcrumbs to Series, Module, Section and Video pages
+
+ 
+### Fixed
+ - FIXED: Offline videos not playing on Android
+ - Moved "Your playlist" and "Recommended Videos" to Home page
+ - Replace "Hub" with "Library" in the footer navbar
+
+
 ## v1.4.6
 ### Added
  - Added API endpoints for searching through modules and sections
