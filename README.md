@@ -1,6 +1,19 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.5.0
+### Added
+ - Added action on app notification (click to watch video/section)
+
+ 
+### Fixed
+ - FIX: Checkmark doesn't persist after assigning learning, so you click Assign Learning again and then assign the same people unlimited times
+ - Removed junk templates
+ - Removed Our Ambassadors page
+ - Fixed: Assigned sections/videos moved to computed
+ - FIX: App comes with "You're offline" after updating account details
+
+
 ## v1.4.8
 ### Added
  - Added breadcrumbs to Series, Module, Section and Video pages
