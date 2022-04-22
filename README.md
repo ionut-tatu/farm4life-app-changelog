@@ -1,6 +1,18 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.5.1
+### Added
+
+ 
+### Fixed
+ - FIX: Download video doesn't update to "Downloaded"
+ - REMOVED: Placeholder "Lorem Ipsum" text
+ - FIX: Android can't update profile picture
+ - FIX: Profile picture missing when on first login / register
+ - FIX: Images are still on local storage even though you select "Delete all offline videos"
+
+
 ## v1.5.0
 ### Added
  - Added action on app notification (click to watch video/section)
