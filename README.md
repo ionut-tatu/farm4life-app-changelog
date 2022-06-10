@@ -1,6 +1,21 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v2.2.0
+### Added
+ - Added account deletion
+ - Added skeleton loading
+ - Added Farming Systems & Equipment course, Wellbeing Paper part 1.
+
+### Fixed
+ - Fixed module progress
+ - Minor bug fixing
+
+
+## v2.0.0
+### Added
+
+
 ## v1.5.1
 ### Added
 
